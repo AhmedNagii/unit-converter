@@ -1,0 +1,45 @@
+ body {
+   margin: 0;
+   padding: 0;
+   background: #1F2937;
+
+}
+
+.first-section{
+    padding:20px ;
+
+height: 40%;
+background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
+text-align: center;
+
+}
+
+.second-section{
+    padding:20px ;
+
+    margin:0 ;
+    text-align: center;
+    height: 60%;
+}
+
+h1, h2, h3 {
+    color: #fff;
+}
+
+h1{
+   font-size: 98px ;
+    font-weight: bold;
+   margin: 20px;
+}
+
+p{
+    color: #D2D2D2
+
+}
+
+#convert-btn{
+    width: 100px;
+    height: 30px;
+    background-color: #396096;
+    color: #fff;
+}
